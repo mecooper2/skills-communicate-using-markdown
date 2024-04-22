@@ -8,3 +8,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] make a list
+- [ ] .... hopefully this works
+- [ ] hi there..... 
